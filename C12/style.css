@@ -1,0 +1,19 @@
+h1:hover,h2:hover{
+    text-shadow:2px 2px 3px blue;
+}
+img{
+    height:300px;
+    filter: grayscale(80%);
+}
+.i1:hover{
+    /* border-radius:10%; */
+    /* scale:1.1; */
+    filter: grayscale(0%);
+    transition: 3s;
+}
+a:link{
+    color:red;
+}
+a:visited{
+color:green;
+}
