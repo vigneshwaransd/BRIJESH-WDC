@@ -1,0 +1,35 @@
+.main{
+    height: 600px;
+    width:500px;
+    border:3px solid red;
+    position:relative;
+}
+.box{
+    height: 80px;
+    width:80px;
+    border:1px solid green;
+    margin-top:10px;
+    padding: 10px;
+}
+.box1{
+    background-color: tomato;
+    position:static;
+}
+.box2{
+    background:linear-gradient(orange,yellow,orangered);
+    position:relative;
+    /* left,right,top,bottom */
+    left:25px;
+    bottom:25px;
+}
+.box3{
+    background-color: aqua;
+    position:absolute;
+    right:0px;
+}
+.box4{
+    background-color:teal;
+}
+.box5{
+    background-color:purple;
+}
