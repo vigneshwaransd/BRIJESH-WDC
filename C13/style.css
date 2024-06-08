@@ -1,0 +1,19 @@
+.b1{
+    border:2px solid red;
+}
+.b2{
+    border:2px dotted red;
+}
+.b3{
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    padding: 100px;
+    display: inline-block;
+}
+
+.b4{
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    padding: 30px;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
