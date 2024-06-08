@@ -1,0 +1,18 @@
+#wrapper{
+    margin:75px auto;
+    border:2px solid red;
+    background-color: #ffe4c4;
+    min-height:300px;
+    width:500px;
+    padding:20px;
+    border-radius: 10px;
+    text-align: center;
+}
+input,button{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    line-height:10px;
+    text-align: left;
+}
