@@ -1,0 +1,33 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+header{
+    background-color: crimson;
+}
+ul{
+    display: flex;
+    gap:10px;
+    list-style-type: none;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-family: "Oleo Script", sans-serif;
+    color:white;
+    margin-left:20px;
+    text-shadow:2px 2px 3px blue;
+}
+a{
+    color:white;
+    font-family: Quicksand;
+}
+li:hover{
+    border-bottom:2px solid black;
+    color:orangered;
+    scale:1.1;
+    transition:2s;
+}
